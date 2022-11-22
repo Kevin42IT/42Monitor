@@ -184,18 +184,20 @@
     "url": "https://echami.ch",
     "icon": "https://icons.duckduckgo.com/ip3/echami.ch.ico",
     "slug": "echami-ch",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2673,
-    "timeDay": 2673,
-    "timeWeek": 2673,
-    "timeMonth": 2673,
-    "timeYear": 2673,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "95.51%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "95.51%",
+    "uptimeYear": "95.51%",
+    "time": 2737,
+    "timeDay": 2737,
+    "timeWeek": 2737,
+    "timeMonth": 2737,
+    "timeYear": 2737,
+    "dailyMinutesDown": {
+      "2022-11-22": 2
+    }
   },
   {
     "name": "medlife.ch",
