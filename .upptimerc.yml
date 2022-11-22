@@ -1,31 +1,147 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Kevin42IT # Your GitHub organization or username, where this repository lives
+repo: 42Monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name : pdg.ch
+    url: https://pdg.ch
+  - name : candy-factory.ch
+    url: https://candy-factory.ch
+  - name : vesperale.ch
+    url: https://vesperale.ch
+  - name : cartigny.ch
+    url: https://cartigny.ch
+  - name : mspg.ch
+    url: https://mspg.ch
+  - name : interacid-trading.com
+    url: https://interacid-trading.com
+  - name : veyrier.ch
+    url: https://veyrier.ch
+  - name : orgapropre.ch
+    url: https://orgapropre.ch
+  - name : avully.ch
+    url: https://avully.ch
+  - name : bodypass.ch
+    url: https://bodypass.ch
+  - name : echami.ch
+    url: https://echami.ch
+  - name : medlife.ch
+    url: https://medlife.ch
+  - name : immopassion.ch
+    url: https://immopassion.ch
+  - name : metalu.ch
+    url: https://metalu.ch
+  - name : 42it.ch
+    url: https://42it.ch
+  - name : arveron.ch
+    url: https://arveron.ch
+  - name : csisimple.ch
+    url: https://csisimple.ch
+  - name : ccinv.ch
+    url: https://ccinv.ch
+  - name : abcge.ch
+    url: https://abcge.ch
+  - name : athosfinearts.ch
+    url: https://athosfinearts.ch
+  - name : dentistelancy.ch
+    url: https://dentistelancy.ch
+  - name : secra.ch
+    url: https://secra.ch
+  - name : 3coqs.ch
+    url: https://3coqs.ch
+  - name : airelaville.ch
+    url: https://airelaville.ch
+  - name : gaechnerimmobilier.ch
+    url: https://gaechnerimmobilier.ch
+  - name : actionfinance.ch
+    url: https://actionfinance.ch
+  - name : le-cigalon.ch
+    url: https://le-cigalon.ch
+  - name : premiereligne.ch
+    url: https://premiereligne.ch
+  - name : nuit-blanche.ch
+    url: https://nuit-blanche.ch
+  - name : ge-emploi.ch
+    url: https://ge-emploi.ch
+  - name : les-perouses.ch
+    url: https://les-perouses.ch
+  - name : okbag.ch
+    url: https://okbag.ch
+  - name : taxinitiative.southcentre.int
+    url: https://taxinitiative.southcentre.int
+  - name : ameconscience.org
+    url: https://ameconscience.org
+  - name : childlabourplatform.org
+    url: https://childlabourplatform.org
+  - name : tacktack.ch
+    url: https://tacktack.ch
+  - name : limani.ch
+    url: https://limani.ch
+  - name : speiro.ch
+    url: https://speiro.ch
+  - name : tawaf.swiss
+    url: https://tawaf.swiss
+  - name : vidonne-system.ch
+    url: https://vidonne-system.ch
+  - name : southcentre.int
+    url: https://southcentre.int
+  - name : pdainterim.ch
+    url: https://pdainterim.ch
+  - name : 360swissengineering.ch
+    url: https://360swissengineering.ch
+  - name : lucini.ch
+    url: https://lucini.ch
+  - name : uceticino.ch
+    url: https://uceticino.ch
+  - name : cispi.ch
+    url: https://cispi.ch
+  - name : russin.ch
+    url: https://russin.ch
+  - name : dent3d.ch
+    url: https://dent3d.ch
+  - name : zeltner.consulting
+    url: https://zeltner.consulting
+  - name : daag.ch
+    url: https://daag.ch
+  - name : pafmunication.ch
+    url: https://pafmunication.ch
+  - name : sortiesdeski.ch
+    url: https://sortiesdeski.ch
+  - name : mentharosset.ch
+    url: https://mentharosset.ch
+  - name : avusy.ch
+    url: https://avusy.ch
+  - name : troger.ch
+    url: https://troger.ch
+  - name : moneyand.com
+    url: https://moneyand.com
+  - name : ss-int.com
+    url: https://ss-int.com
+  - name : zid.archi
+    url: https://zid.archi
+  - name : covantis.io
+    url: https://covantis.io
+  - name : cydonia.swiss
+    url: https://cydonia.swiss
+  - name : fss-exfi.ch
+    url: https://fss-exfi.ch
+  - name : ipaccessmeds.southcentre.int
+    url: https://ipaccessmeds.southcentre.int
+  - name : fondationpav.ch
+    url: https://fondationpav.ch
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: 42IT - Uptime Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: intro message todo
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
