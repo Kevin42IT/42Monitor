@@ -833,18 +833,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/russin.ch.ico",
     "slug": "russin-ch",
     "status": "down",
-    "uptime": "2.66%",
-    "uptimeDay": "2.66%",
-    "uptimeWeek": "2.66%",
-    "uptimeMonth": "2.66%",
-    "uptimeYear": "2.66%",
+    "uptime": "1.97%",
+    "uptimeDay": "1.97%",
+    "uptimeWeek": "1.97%",
+    "uptimeMonth": "1.97%",
+    "uptimeYear": "1.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-22": 1
+      "2022-11-22": 2
     }
   },
   {
