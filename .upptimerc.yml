@@ -5,140 +5,203 @@ repo: 42Monitor # The name of this repository
 sites:
   - name : pdg.ch
     url: https://pdg.ch
+    __dangerous__body_down_if_text_missing: 'Armée suisse'
   - name : candy-factory.ch
     url: https://candy-factory.ch
+    __dangerous__body_down_if_text_missing: 'Crafted'
   - name : vesperale.ch
     url: https://vesperale.ch
+    __dangerous__body_down_if_text_missing: '42IT'
   - name : cartigny.ch
     url: https://cartigny.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : mspg.ch
     url: https://mspg.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : interacid-trading.com
     url: https://interacid-trading.com
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : veyrier.ch
     url: https://veyrier.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : orgapropre.ch
     url: https://orgapropre.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : avully.ch
     url: https://avully.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : bodypass.ch
     url: https://bodypass.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : echami.ch
     url: https://echami.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : medlife.ch
     url: https://medlife.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : immopassion.ch
     url: https://immopassion.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : metalu.ch
     url: https://metalu.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : 42it.ch
     url: https://42it.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : arveron.ch
     url: https://arveron.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : csisimple.ch
     url: https://csisimple.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : ccinv.ch
     url: https://ccinv.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : abcge.ch
     url: https://abcge.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : athosfinearts.ch
     url: https://athosfinearts.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : dentistelancy.ch
     url: https://dentistelancy.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : secra.ch
     url: https://secra.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : 3coqs.ch
     url: https://3coqs.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : airelaville.ch
     url: https://airelaville.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : gaechnerimmobilier.ch
     url: https://gaechnerimmobilier.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : actionfinance.ch
     url: https://actionfinance.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : le-cigalon.ch
     url: https://le-cigalon.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : premiereligne.ch
     url: https://premiereligne.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : nuit-blanche.ch
     url: https://nuit-blanche.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : ge-emploi.ch
     url: https://ge-emploi.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : les-perouses.ch
     url: https://les-perouses.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : okbag.ch
     url: https://okbag.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : taxinitiative.southcentre.int
     url: https://taxinitiative.southcentre.int
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : ameconscience.org
     url: https://ameconscience.org
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : childlabourplatform.org
     url: https://childlabourplatform.org
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : tacktack.ch
     url: https://tacktack.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : limani.ch
     url: https://limani.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : speiro.ch
     url: https://speiro.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : tawaf.swiss
     url: https://tawaf.swiss
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : vidonne-system.ch
     url: https://vidonne-system.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : southcentre.int
     url: https://southcentre.int
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : pdainterim.ch
     url: https://pdainterim.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : 360swissengineering.ch
     url: https://360swissengineering.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : lucini.ch
     url: https://lucini.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : uceticino.ch
     url: https://uceticino.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : cispi.ch
     url: https://cispi.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : russin.ch
     url: https://www.russin.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : dent3d.ch
     url: https://dent3d.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : zeltner.consulting
     url: https://zeltner.consulting
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : daag.ch
     url: https://daag.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : pafmunication.ch
     url: https://pafmunication.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : sortiesdeski.ch
     url: https://sortiesdeski.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : mentharosset.ch
     url: https://mentharosset.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : avusy.ch
     url: https://avusy.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : troger.ch
     url: https://troger.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : moneyand.com
     url: https://moneyand.com
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : ss-int.com
     url: https://ss-int.com
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : zid.archi
     url: https://zid.archi
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : covantis.io
     url: https://covantis.io
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : cydonia.swiss
     url: https://cydonia.swiss
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : fss-exfi.ch
     url: https://fss-exfi.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : ipaccessmeds.southcentre.int
     url: https://ipaccessmeds.southcentre.int
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : fondationpav.ch
     url: https://fondationpav.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /42Monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://42it.ch/wp-content/themes/cf_42it/img/42IT_Logo.svg
   name: 42IT - Uptime Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: intro message todo
+  #introMessage: intro message todo
   navbar:
     - title: Status
       href: /
