@@ -20,7 +20,7 @@ sites:
     __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : interacid-trading.com
     url: https://interacid-trading.com
-    __dangerous__body_down_if_text_missing: 'Candy Factory'
+    __dangerous__body_down_if_text_missing: 'ALL RIGHTS RESERVED'
   - name : veyrier.ch
     url: https://veyrier.ch
     __dangerous__body_down_if_text_missing: 'Candy Factory'
