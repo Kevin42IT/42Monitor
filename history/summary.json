@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/interacid-trading.com.ico",
     "slug": "interacid-trading-com",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.92%",
+    "uptime": "98.87%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
     "time": 2604,
     "timeDay": 2604,
     "timeWeek": 2604,
@@ -331,19 +331,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/abcge.ch.ico",
     "slug": "abcge-ch",
     "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1291,
     "timeDay": 1291,
     "timeWeek": 1291,
     "timeMonth": 1291,
     "timeYear": 1291,
-    "dailyMinutesDown": {
-      "2022-11-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "athosfinearts.ch",
@@ -567,19 +565,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/okbag.ch.ico",
     "slug": "okbag-ch",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.25%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1539,
     "timeDay": 1539,
     "timeWeek": 1539,
     "timeMonth": 1539,
     "timeYear": 1539,
-    "dailyMinutesDown": {
-      "2022-11-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "taxinitiative.southcentre.int",
@@ -1037,19 +1033,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/zid.archi.ico",
     "slug": "zid-archi",
     "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1575,
     "timeDay": 1575,
     "timeWeek": 1575,
     "timeMonth": 1575,
     "timeYear": 1575,
-    "dailyMinutesDown": {
-      "2022-11-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "covantis.io",
