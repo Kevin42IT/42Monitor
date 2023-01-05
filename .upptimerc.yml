@@ -180,9 +180,6 @@ sites:
   - name : covantis.io
     url: https://covantis.io
     __dangerous__body_down_if_text_missing: 'Candy Factory'
-  - name : cydonia.swiss
-    url: https://cydonia.swiss
-    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : fss-exfi.ch
     url: https://fss-exfi.ch
     __dangerous__body_down_if_text_missing: 'Candy Factory'
