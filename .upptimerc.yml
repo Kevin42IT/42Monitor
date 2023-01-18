@@ -186,7 +186,7 @@ sites:
   - name : fondationpav.ch
     url: https://fondationpav.ch
     __dangerous__body_down_if_text_missing: 'Candy Factory'
-- name : gothard.co
+  - name : gothard.co
     url: https://gothard.co
     __dangerous__body_down_if_text_missing: 'Candy Factory'
 
