@@ -69,9 +69,6 @@ sites:
   - name : secra.ch
     url: https://secra.ch
     __dangerous__body_down_if_text_missing: 'Candy Factory'
-  - name : 3coqs.ch
-    url: https://3coqs.ch
-    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : airelaville.ch
     url: https://airelaville.ch
     __dangerous__body_down_if_text_missing: 'Candy Factory'
@@ -188,6 +185,9 @@ sites:
     __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : fondationpav.ch
     url: https://fondationpav.ch
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
+- name : gothard.co
+    url: https://gothard.co
     __dangerous__body_down_if_text_missing: 'Candy Factory'
 
 status-website:
