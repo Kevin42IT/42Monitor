@@ -100,11 +100,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/interacid-trading.com.ico",
     "slug": "interacid-trading-com",
     "status": "up",
-    "uptime": "3.01%",
+    "uptime": "3.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "18.86%",
-    "uptimeMonth": "2.43%",
-    "uptimeYear": "3.01%",
+    "uptimeWeek": "19.12%",
+    "uptimeMonth": "2.49%",
+    "uptimeYear": "3.04%",
     "time": 2370,
     "timeDay": 2664,
     "timeWeek": 2447,
@@ -1232,7 +1232,7 @@
     "timeMonth": 1268,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2023-01-20": 76,
+      "2023-01-20": 103,
       "2023-01-19": 1440,
       "2023-01-18": 485
     }
