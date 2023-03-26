@@ -1,7 +1,7 @@
 url: https://vesperale.ch
-status: up
-code: 200
-responseTime: 3054
-lastUpdated: 2023-03-25T23:07:16.419Z
+status: down
+code: 500
+responseTime: 726
+lastUpdated: 2023-03-26T02:50:59.178Z
 startTime: Tue Nov 22 2022 21:07:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
