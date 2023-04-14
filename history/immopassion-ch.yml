@@ -1,7 +1,7 @@
 url: https://immopassion.ch
-status: up
-code: 200
-responseTime: 1469
-lastUpdated: 2023-04-13T23:08:00.389Z
+status: down
+code: 500
+responseTime: 892
+lastUpdated: 2023-04-14T15:16:03.902Z
 startTime: Tue Nov 22 2022 21:08:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
