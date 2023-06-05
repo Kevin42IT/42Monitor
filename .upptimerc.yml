@@ -188,10 +188,10 @@ sites:
     __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : Cour des comptes cdc-ge.ch
     url: https://cdc-ge.ch/
-    __dangerous__body_down_if_text_missing: 'CANDY FACTORY'
+    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : lafonduedefred.ch
     url: https://lafonduedefred.ch/
-    __dangerous__body_down_if_text_missing: 'CANDY FACTORY'	
+    __dangerous__body_down_if_text_missing: 'Candy Factory'	
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
