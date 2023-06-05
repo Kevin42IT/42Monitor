@@ -54,9 +54,6 @@ sites:
   - name : csisimple.ch
     url: https://csisimple.ch
     __dangerous__body_down_if_text_missing: 'Candy Factory'
-  - name : ccinv.ch
-    url: https://ccinv.ch
-    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : abcge.ch
     url: https://abcge.ch
     __dangerous__body_down_if_text_missing: 'candy factory'
@@ -168,9 +165,6 @@ sites:
   - name : moneyand.com
     url: https://moneyand.com
     __dangerous__body_down_if_text_missing: 'Candy Factory'
-  - name : ss-int.com
-    url: https://ss-int.com
-    __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : zid.archi
     url: https://zid.archi
     __dangerous__body_down_if_text_missing: 'Candy factory'
@@ -188,7 +182,16 @@ sites:
     __dangerous__body_down_if_text_missing: 'Candy Factory'
   - name : gothard.co
     url: https://gothard.co
+    __dangerous__body_down_if_text_missing: 'CANDY FACTORY'
+  - name : sbing.ch
+    url: https://www.sbing.ch/
     __dangerous__body_down_if_text_missing: 'Candy Factory'
+  - name : Cour des comptes cdc-ge.ch
+    url: https://cdc-ge.ch/
+    __dangerous__body_down_if_text_missing: 'CANDY FACTORY'
+  - name : lafonduedefred.ch
+    url: https://lafonduedefred.ch/
+    __dangerous__body_down_if_text_missing: 'CANDY FACTORY'	
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
