@@ -2436,19 +2436,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdc-ge.ch.ico",
     "slug": "cour-des-comptes-cdc-ge-ch",
     "status": "up",
-    "uptime": "9.71%",
-    "uptimeDay": "9.71%",
-    "uptimeWeek": "9.71%",
-    "uptimeMonth": "9.71%",
-    "uptimeYear": "9.71%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1689,
     "timeDay": 1689,
     "timeWeek": 1689,
     "timeMonth": 1689,
     "timeYear": 1689,
-    "dailyMinutesDown": {
-      "2023-06-05": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "lafonduedefred.ch",
@@ -2456,18 +2454,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lafonduedefred.ch.ico",
     "slug": "lafonduedefred-ch",
     "status": "up",
-    "uptime": "9.42%",
-    "uptimeDay": "9.42%",
-    "uptimeWeek": "9.42%",
-    "uptimeMonth": "9.42%",
-    "uptimeYear": "9.42%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2163,
     "timeDay": 2163,
     "timeWeek": 2163,
     "timeMonth": 2163,
     "timeYear": 2163,
-    "dailyMinutesDown": {
-      "2023-06-05": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
