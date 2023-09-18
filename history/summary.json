@@ -217,8 +217,8 @@
     "status": "up",
     "uptime": "55.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.75%",
-    "uptimeMonth": "18.29%",
+    "uptimeWeek": "87.86%",
+    "uptimeMonth": "18.31%",
     "uptimeYear": "55.35%",
     "time": 2503,
     "timeDay": 2509,
@@ -2615,19 +2615,19 @@
     "url": "https://lafonduedefred.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/lafonduedefred.ch.ico",
     "slug": "lafonduedefred-ch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2360,
-    "timeDay": 1559,
-    "timeWeek": 2244,
-    "timeMonth": 2376,
-    "timeYear": 2360,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2363,
+    "timeDay": 1933,
+    "timeWeek": 2293,
+    "timeMonth": 2385,
+    "timeYear": 2363,
     "dailyMinutesDown": {
-      "2023-09-18": 1
+      "2023-09-18": 11
     }
   }
 ]
