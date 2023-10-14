@@ -1,7 +1,7 @@
 url: https://gaechnerimmobilier.ch
-status: up
-code: 200
-responseTime: 1743
-lastUpdated: 2023-10-13T23:08:13.354Z
+status: down
+code: 500
+responseTime: 519
+lastUpdated: 2023-10-14T04:27:52.080Z
 startTime: 2022-11-22T21:08:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
