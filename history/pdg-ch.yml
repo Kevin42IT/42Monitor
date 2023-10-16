@@ -1,7 +1,7 @@
 url: https://pdg.ch
-status: up
-code: 200
-responseTime: 1625
-lastUpdated: 2023-10-15T23:07:05.716Z
+status: down
+code: 500
+responseTime: 281
+lastUpdated: 2023-10-16T13:15:58.127Z
 startTime: 2022-11-22T21:07:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
