@@ -1,7 +1,7 @@
 url: https://daag.ch
-status: up
-code: 200
-responseTime: 1487
-lastUpdated: 2023-10-30T23:18:56.825Z
+status: down
+code: 500
+responseTime: 611
+lastUpdated: 2023-10-31T11:48:52.816Z
 startTime: 2022-11-22T21:09:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
