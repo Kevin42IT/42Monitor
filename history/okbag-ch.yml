@@ -1,7 +1,7 @@
 url: https://okbag.ch
-status: up
-code: 200
-responseTime: 1365
-lastUpdated: 2023-11-14T23:08:34.141Z
+status: down
+code: 500
+responseTime: 2835
+lastUpdated: 2023-11-15T15:58:49.085Z
 startTime: 2022-11-22T21:09:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
