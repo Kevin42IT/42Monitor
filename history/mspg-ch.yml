@@ -1,7 +1,7 @@
 url: https://mspg.ch
-status: up
-code: 200
-responseTime: 2047
-lastUpdated: 2023-11-19T23:07:47.783Z
+status: down
+code: 500
+responseTime: 1139
+lastUpdated: 2023-11-20T04:31:50.614Z
 startTime: 2022-11-22T21:07:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
