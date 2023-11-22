@@ -1,7 +1,7 @@
 url: https://southcentre.int
-status: up
-code: 200
-responseTime: 4492
-lastUpdated: 2023-11-21T23:09:20.642Z
+status: down
+code: 500
+responseTime: 4178
+lastUpdated: 2023-11-22T10:12:07.754Z
 startTime: 2022-11-22T21:09:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
