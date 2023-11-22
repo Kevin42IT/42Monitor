@@ -1,7 +1,7 @@
 url: https://limani.ch
-status: up
-code: 200
-responseTime: 1728
-lastUpdated: 2023-11-21T23:09:11.313Z
+status: down
+code: 503
+responseTime: 10064
+lastUpdated: 2023-11-22T09:08:07.603Z
 startTime: 2022-11-22T21:09:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
