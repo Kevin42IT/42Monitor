@@ -1,7 +1,7 @@
 url: https://ameconscience.org
-status: up
-code: 200
-responseTime: 2271
-lastUpdated: 2023-12-12T23:09:31.174Z
+status: down
+code: 500
+responseTime: 646
+lastUpdated: 2023-12-13T08:50:25.903Z
 startTime: 2022-11-22T21:09:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
