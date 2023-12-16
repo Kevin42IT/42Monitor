@@ -1,7 +1,7 @@
 url: https://taxinitiative.southcentre.int
-status: up
-code: 200
-responseTime: 1441
-lastUpdated: 2023-12-15T23:08:52.010Z
+status: down
+code: 503
+responseTime: 5506
+lastUpdated: 2023-12-16T07:20:55.650Z
 startTime: 2022-11-22T21:09:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
