@@ -1,7 +1,7 @@
 url: https://premiereligne.ch
-status: up
-code: 200
-responseTime: 2615
-lastUpdated: 2023-12-17T23:08:47.209Z
+status: down
+code: 500
+responseTime: 856
+lastUpdated: 2023-12-18T21:26:18.013Z
 startTime: 2022-11-22T21:08:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
