@@ -1,7 +1,7 @@
 url: https://arveron.ch
-status: up
-code: 200
-responseTime: 1442
-lastUpdated: 2023-12-17T23:08:19.256Z
+status: down
+code: 500
+responseTime: 16286
+lastUpdated: 2023-12-18T21:23:00.680Z
 startTime: 2022-11-22T21:08:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
