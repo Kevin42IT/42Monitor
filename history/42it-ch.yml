@@ -1,7 +1,7 @@
 url: https://42it.ch
-status: up
-code: 200
-responseTime: 1363
-lastUpdated: 2024-01-03T23:09:20.988Z
+status: down
+code: 503
+responseTime: 249
+lastUpdated: 2024-01-04T13:46:04.653Z
 startTime: 2022-11-22T21:08:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
