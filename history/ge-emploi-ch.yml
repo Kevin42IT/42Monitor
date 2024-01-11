@@ -1,7 +1,7 @@
 url: https://ge-emploi.ch
-status: down
-code: 500
-responseTime: 401
-lastUpdated: 2024-01-11T05:37:30.069Z
+status: up
+code: 200
+responseTime: 1130
+lastUpdated: 2024-01-11T05:47:30.835Z
 startTime: 2022-11-22T21:08:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
