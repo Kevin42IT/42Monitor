@@ -1,7 +1,7 @@
 url: https://echami.ch
-status: up
-code: 200
-responseTime: 2662
-lastUpdated: 2024-03-24T23:08:53.077Z
+status: down
+code: 500
+responseTime: 2729
+lastUpdated: 2024-03-25T12:59:49.907Z
 startTime: 2022-11-22T21:08:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
