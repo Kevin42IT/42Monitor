@@ -405,7 +405,7 @@
     "uptime": "93.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.89%",
+    "uptimeMonth": "11.87%",
     "uptimeYear": "91.30%",
     "time": 1629,
     "timeDay": 870,
@@ -413,7 +413,7 @@
     "timeMonth": 689,
     "timeYear": 1595,
     "dailyMinutesDown": {
-      "2024-03-27": 643,
+      "2024-03-27": 653,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
@@ -910,7 +910,7 @@
     "timeMonth": 804,
     "timeYear": 2053,
     "dailyMinutesDown": {
-      "2024-03-27": 644,
+      "2024-03-27": 654,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
@@ -1125,19 +1125,19 @@
     "url": "https://pdainterim.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pdainterim.ch.ico",
     "slug": "pdainterim-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "93.82%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1462,
-    "timeDay": 1127,
-    "timeWeek": 1435,
-    "timeMonth": 1416,
+    "time": 1463,
+    "timeDay": 1202,
+    "timeWeek": 1425,
+    "timeMonth": 1414,
     "timeYear": 1508,
     "dailyMinutesDown": {
-      "2024-03-27": 2
+      "2024-03-27": 10
     }
   },
   {
