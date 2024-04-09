@@ -393,8 +393,7 @@
       "2023-04-17": 608,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
-      "2023-04-14": 649,
-      "2023-04-10": 41
+      "2023-04-14": 649
     }
   },
   {
@@ -414,7 +413,8 @@
     "timeMonth": 610,
     "timeYear": 1551,
     "dailyMinutesDown": {
-      "2024-04-08": 1432,
+      "2024-04-09": 1,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -924,7 +924,8 @@
     "timeMonth": 776,
     "timeYear": 1984,
     "dailyMinutesDown": {
-      "2024-04-08": 1433,
+      "2024-04-09": 2,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -1478,19 +1479,20 @@
     "url": "https://zid.archi",
     "icon": "https://icons.duckduckgo.com/ip3/zid.archi.ico",
     "slug": "zid-archi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1858,
-    "timeDay": 9159,
-    "timeWeek": 3653,
-    "timeMonth": 2075,
-    "timeYear": 1900,
+    "timeDay": 6562,
+    "timeWeek": 3399,
+    "timeMonth": 2053,
+    "timeYear": 1899,
     "dailyMinutesDown": {
-      "2024-04-08": 3,
+      "2024-04-09": 0,
+      "2024-04-08": 9,
       "2023-12-14": 16
     }
   },
@@ -1634,7 +1636,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gothard.co.ico",
     "slug": "gothard-co",
     "status": "up",
-    "uptime": "91.71%",
+    "uptime": "91.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
