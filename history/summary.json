@@ -413,7 +413,7 @@
     "timeMonth": 608,
     "timeYear": 1547,
     "dailyMinutesDown": {
-      "2024-04-10": 669,
+      "2024-04-10": 683,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -925,7 +925,7 @@
     "timeMonth": 781,
     "timeYear": 1980,
     "dailyMinutesDown": {
-      "2024-04-10": 670,
+      "2024-04-10": 684,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -1701,19 +1701,19 @@
     "url": "https://cdc-ge.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/cdc-ge.ch.ico",
     "slug": "cour-des-comptes-cdc-ge-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1957,
-    "timeDay": 1131,
-    "timeWeek": 1518,
-    "timeMonth": 1796,
+    "timeDay": 1389,
+    "timeWeek": 1561,
+    "timeMonth": 1800,
     "timeYear": 1957,
     "dailyMinutesDown": {
-      "2024-04-10": 2
+      "2024-04-10": 14
     }
   },
   {
