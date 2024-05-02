@@ -403,14 +403,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.75%",
+    "uptimeYear": "82.74%",
     "time": 1590,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 550,
     "timeYear": 1545,
     "dailyMinutesDown": {
-      "2024-05-02": 892,
+      "2024-05-02": 901,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -941,7 +941,7 @@
     "timeMonth": 822,
     "timeYear": 1889,
     "dailyMinutesDown": {
-      "2024-05-02": 893,
+      "2024-05-02": 902,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -1655,19 +1655,19 @@
     "url": "https://fondationpav.ch",
     "icon": "https://icons.duckduckgo.com/ip3/fondationpav.ch.ico",
     "slug": "fondationpav-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1420,
-    "timeDay": 1078,
-    "timeWeek": 1382,
+    "time": 1421,
+    "timeDay": 1171,
+    "timeWeek": 1379,
     "timeMonth": 1359,
     "timeYear": 1437,
     "dailyMinutesDown": {
-      "2024-05-02": 3
+      "2024-05-02": 10
     }
   },
   {
