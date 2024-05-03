@@ -29,19 +29,19 @@
     "url": "https://candy-factory.ch",
     "icon": "https://icons.duckduckgo.com/ip3/candy-factory.ch.ico",
     "slug": "candy-factory-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 3052,
-    "timeDay": 2082,
-    "timeWeek": 2807,
-    "timeMonth": 2795,
+    "time": 3054,
+    "timeDay": 2426,
+    "timeWeek": 2842,
+    "timeMonth": 2805,
     "timeYear": 3170,
     "dailyMinutesDown": {
-      "2024-05-03": 2
+      "2024-05-03": 10
     }
   },
   {
@@ -264,7 +264,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/veyrier.ch.ico",
     "slug": "veyrier-ch",
     "status": "up",
-    "uptime": "94.23%",
+    "uptime": "94.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -413,7 +413,7 @@
     "timeMonth": 555,
     "timeYear": 1545,
     "dailyMinutesDown": {
-      "2024-05-03": 447,
+      "2024-05-03": 458,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -945,7 +945,7 @@
     "timeMonth": 823,
     "timeYear": 1884,
     "dailyMinutesDown": {
-      "2024-05-03": 448,
+      "2024-05-03": 459,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
