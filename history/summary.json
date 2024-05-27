@@ -419,7 +419,7 @@
     "timeMonth": 0,
     "timeYear": 1535,
     "dailyMinutesDown": {
-      "2024-05-27": 879,
+      "2024-05-27": 889,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -985,7 +985,7 @@
     "timeMonth": 758,
     "timeYear": 1756,
     "dailyMinutesDown": {
-      "2024-05-27": 880,
+      "2024-05-27": 889,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -1632,19 +1632,19 @@
     "url": "https://fss-exfi.ch",
     "icon": "https://icons.duckduckgo.com/ip3/fss-exfi.ch.ico",
     "slug": "fss-exfi-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1512,
-    "timeDay": 1328,
-    "timeWeek": 1341,
-    "timeMonth": 1353,
-    "timeYear": 1512,
+    "timeDay": 1452,
+    "timeWeek": 1381,
+    "timeMonth": 1363,
+    "timeYear": 1513,
     "dailyMinutesDown": {
-      "2024-05-27": 3
+      "2024-05-27": 9
     }
   },
   {
